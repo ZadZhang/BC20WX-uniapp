@@ -1,0 +1,21 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/basics/home",
+        "pages/manage/home",
+        "pages/update/home",
+        "pages/about/home"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationStyle": "custom"
+    },
+    "usingComponents": {
+        "basics": "/pages/basics/home",
+        "manage": "/pages/manage/home",
+        "update": "/pages/update/home",
+        "about": "/pages/about/home",
+        "cu-custom": "/colorui/components/cu-custom"
+    },
+    "sitemapLocation": "sitemap.json"
+}
